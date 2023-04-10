@@ -11,7 +11,7 @@ import speak
 from enum import Enum, auto
 import sys
 from config import Config
-from json_parser import fix_and_parse_json
+from json_parser import fix_and_parse_jsonw
 from ai_config import AIConfig
 import traceback
 import yaml
